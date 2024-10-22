@@ -2,6 +2,8 @@
 
 This is a React-based web application that displays live candlestick charts for cryptocurrency pairs from Binance. The data is fetched using Binance's WebSocket API, and Chart.js is used to visualize the candlestick data.
 
+## Working Link: https://binance-market-data.onrender.com
+
 ## Features
 
 - **Real-time WebSocket Integration:** Fetches live market data from Binance using WebSocket for various cryptocurrency pairs like ETH/USDT, BNB/USDT, and DOT/USDT.
